@@ -1,5 +1,7 @@
 ## 👨🏽‍💻 Guilherme
 
+---
+
 **`Desenvolvedor Back-End`**
 
 Me chamo Guilherme Queiroz Ferreira, tenho 22 anos e sou de Salavador. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UCSal e aprendendo constantemente Java Back-End pela plataforma Alura.
