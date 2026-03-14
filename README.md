@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Guilherme Queiroz Ferreira, tenho 22 anos e sou de Salavador. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UCSal e aprendendo constantemente Java Back-End pela plataforma Alura.
+Me chamo Guilherme Queiroz Ferreira, tenho 22 anos e sou de Salavador. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UCSal e aprendendo constantemente Java, HTML e CSS para ampliar meus conheciemntos e deselvolver softwares eficientes.
 
 <p align="left">
     <a href="https://github.com/ProgMag?tab=repositories&sort=stargazers">
