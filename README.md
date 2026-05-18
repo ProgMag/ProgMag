@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+bem-vindo+ao+meu+perfil)](https://git.io/typing-svg)
+
 ```js
 import Desenvolvedor from "ProgMag";
 
