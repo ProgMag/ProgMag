@@ -71,4 +71,7 @@ GitHub Profile Trophy:
   </a>
 </p>
 
----
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=fadeIn&theme=cobalt"
+  width="100%"
+/>
