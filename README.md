@@ -5,14 +5,14 @@ import Desenvolvedor from "ProgMag";
 
 class SobreMim extends Desenvolvedor {
   nome = "Guilherme Queiroz";
-  area = "Full-Stack";
+  area = "Back-End";
   local = "Salvador, BA";
 }
 ```
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Sou estudante de Análise e Desenvolvimento de Sistemas (UCSal) com foco em desenvolvimento Full-Stack. Tenho experiência acadêmica e prática na construção de aplicações do zero. Busco minha primeira oportunidade de estágio em desenvolvimento de software, com o objetivo de aplicar minha capacidade analítica e minha dedicação diária para gerar valor e crescer junto com a empresa.
+Sou estudante de Análise e Desenvolvimento de Sistemas (UCSal) com foco em desenvolvimento Back-End. Tenho experiência acadêmica e prática na construção de aplicações do zero. Busco minha primeira oportunidade de estágio em desenvolvimento de software, com o objetivo de aplicar minha capacidade analítica e minha dedicação diária para gerar valor e crescer junto com a empresa.
 </p>
 
 ## 🚀 Minhas Skills
